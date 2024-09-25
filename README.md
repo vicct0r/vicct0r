@@ -1,21 +1,20 @@
-
 ![Vicct0r GitHub stats](https://github-readme-stats.vercel.app/api?username=vicct0r&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicct0r&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies
+## Tecnologias
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div><br/>
 
-## About me
-Languages: Native BR🇧🇷, EN🇺🇸
+## Sobre mim
 
-I am willing to voluntarily join any project that is interesting and challenging; As programmers, we always have something to learn or to teach. Do not hesitate to call me if you have something in mind. Contact: v1ctor_inacio@proton.me
+**Idiomas**: Nativo em Português 🇧🇷, Inglês 🇺🇸
 
+Estou disposto a me juntar voluntariamente a qualquer projeto que seja interessante e desafiador. Como programadores, sempre temos algo a aprender ou a ensinar. Não hesite em me contatar se tiver algo em mente. 
 
-
+**Contato**: [v1ctor_inacio@proton.me](mailto:v1ctor_inacio@proton.me)
