@@ -1,10 +1,9 @@
 # 👋 Olá — eu sou o Victor
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vicct0r&theme=gruvbox&margin-w=8" alt="GitHub Trophies" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicct0r&theme=dark" alt="Streak Stats" />
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicct0r&layout=compact&theme=dark)](https://github.com/vicct0r)
+
+[![Minha Atividade](https://github-readme-streak-stats.herokuapp.com/?user=vicct0r&theme=dark)](https://github.com/vicct0r)
+
 
 ---
 
