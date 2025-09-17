@@ -1,8 +1,14 @@
 # 👋 Olá, eu sou o Victor
 
 <div align="center">
+
+  <!-- Estatísticas do perfil -->
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicct0r&show_icons=true&theme=dark)](https://github.com/vicct0r)
+
+  <!-- Linguagens mais usadas -->
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicct0r&layout=compact&theme=dark)](https://github.com/vicct0r)
+
+  <!-- Streak / contribuições recentes -->
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicct0r&theme=dark)](https://github.com/vicct0r)
 
 </div>
