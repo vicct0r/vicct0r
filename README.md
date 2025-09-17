@@ -1,13 +1,16 @@
-# 👋 Olá — eu sou o Victor
+# 👋 Olá, eu sou o Victor
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicct0r&layout=compact&theme=dark)](https://github.com/vicct0r)
+<div align="center">
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicct0r&show_icons=true&theme=dark)](https://github.com/vicct0r)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicct0r&layout=compact&theme=dark)](https://github.com/vicct0r)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicct0r&theme=dark)](https://github.com/vicct0r)
 
-[![Minha Atividade](https://github-readme-streak-stats.herokuapp.com/?user=vicct0r&theme=dark)](https://github.com/vicct0r)
-
+</div>
 
 ---
 
 ## 🚀 Tecnologias
+
 <div style="display: inline_block"><br/>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -21,10 +24,14 @@
 ---
 
 ## 📌 Sobre mim
-Busco projetos desafiadores; aberto a colaborar e trocar conhecimento.  
+
+Sempre aprendendo, sempre codando.  
+Aberto a colaborar em projetos desafiadores ou compartilhar conhecimento.
+
 **Idiomas:** Português (nativo) • Inglês
 
 ---
 
 ## 📫 Contato
+
 ✉️ [v1ctor_inacio@proton.me](mailto:v1ctor_inacio@proton.me)
