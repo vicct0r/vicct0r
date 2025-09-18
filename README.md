@@ -2,11 +2,8 @@
 
 <div align="center">
 
-### 🚀 Estatísticas do GitHub  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicct0r&layout=compact&theme=dark)  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicct0r&show_icons=true&theme=dark)  
-
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicct0r&show_icons=true&theme=dark) 
 </div>
 
 ---
