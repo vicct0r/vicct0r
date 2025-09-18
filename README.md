@@ -2,7 +2,9 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicct0r&theme=dark)](https://github.com/vicct0r)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicct0r&layout=compact&theme=dark)
+ ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicct0r&show_icons=true&theme=dark)
+
 
 </div>
 
